@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Allow read for records in sys_mailbox, for users with roles (x_803254_safe_work.sanitarians, x_803254_safe_work.employees, x_803254_safe_work.managers).</description>
+        <name>sys_mailbox</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 15:09:12</sys_created_on>
+        <sys_id>044833022f4c1110fcf3f21df699b6ad</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sys_mailbox</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sys_security_acl_044833022f4c1110fcf3f21df699b6ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 15:14:52</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>sys_security_acl_044833022f4c1110fcf3f21df699b6ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Allow read for records in sys_mailbox, for users with roles (x_803254_safe_work.sanitarians, x_803254_safe_work.employees, x_803254_safe_work.managers).</description><name>sys_mailbox</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-14 15:09:12</sys_created_on><sys_id>044833022f4c1110fcf3f21df699b6ad</sys_id><sys_mod_count>2</sys_mod_count><sys_name>sys_mailbox</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>sys_security_acl_044833022f4c1110fcf3f21df699b6ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-14 15:14:52</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-84199831</payload_hash>
+        <record_name>sys_mailbox</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 15:14:52</sys_created_on>
+        <sys_id>bf1a7f422f4c1110fcf3f21df699b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18162c822e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 15:14:52</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>f71a7f424c4c11103433820fb6bb428d</update_guid>
+        <update_guid_history>f71a7f424c4c11103433820fb6bb428d:-84199831,8df8f702ff4c11105e6bfff963c37afe:431086961,81d87b02784c1110375f367e1e16a915:-10249776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 13:51:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>04f92cc441744c5a810b02e8b9038da4</sys_id>
+        <sys_metadata>044833022f4c1110fcf3f21df699b6ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_mailbox</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent display_value="sys_mailbox">4c457aa345110110a86630cf9552f3a0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_044833022f4c1110fcf3f21df699b6ad</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_044833022f4c1110fcf3f21df699b6ad">bf1a7f422f4c1110fcf3f21df699b68d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 13:51:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

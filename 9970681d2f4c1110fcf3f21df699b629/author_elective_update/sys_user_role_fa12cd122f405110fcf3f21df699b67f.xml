@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_803254_safe_work.cluster</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>cluster</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 20:29:40</sys_created_on>
+        <sys_id>fa12cd122f405110fcf3f21df699b67f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_803254_safe_work.cluster</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sys_user_role_fa12cd122f405110fcf3f21df699b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 21:09:28</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>sys_user_role_fa12cd122f405110fcf3f21df699b67f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>true</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_803254_safe_work.cluster</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>cluster</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-14 20:29:40</sys_created_on><sys_id>fa12cd122f405110fcf3f21df699b67f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_803254_safe_work.cluster</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>sys_user_role_fa12cd122f405110fcf3f21df699b67f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-14 21:09:28</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1099767401</payload_hash>
+        <record_name>x_803254_safe_work.cluster</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 21:09:28</sys_created_on>
+        <sys_id>164bcd9a2f405110fcf3f21df699b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181640cca050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 21:09:28</sys_updated_on>
+        <type>Role</type>
+        <update_guid>5e4bcd9af5405110802d494b98675ad3</update_guid>
+        <update_guid_history>5e4bcd9af5405110802d494b98675ad3:1099767401,1b22891270405110c003a630d0b0cc7c:-246786690</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_803254_safe_work.cluster">2a1c451e2f405110fcf3f21df699b6ca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 21:13:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>00b60cfd09724e3c80124a12bc256f44</sys_id>
+        <sys_metadata>fa12cd122f405110fcf3f21df699b67f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_803254_safe_work.cluster</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>sys_user_role_fa12cd122f405110fcf3f21df699b67f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_fa12cd122f405110fcf3f21df699b67f">164bcd9a2f405110fcf3f21df699b6d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 21:13:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Work Desk Reservation">0acb70552fcc1110fcf3f21df699b662</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 21:55:53</sys_created_on>
+        <sys_id>848f92ae2f049110fcf3f21df699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work Desk Reservation.Guest User</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_848f92ae2f049110fcf3f21df699b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 21:55:53</sys_updated_on>
+        <user_criteria display_value="Guest User">76f09af6cb1200108ad442fcf7076dbf</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_848f92ae2f049110fcf3f21df699b6f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Work Desk Reservation">0acb70552fcc1110fcf3f21df699b662</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-15 21:55:53</sys_created_on><sys_id>848f92ae2f049110fcf3f21df699b6f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Work Desk Reservation.Guest User</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_848f92ae2f049110fcf3f21df699b6f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-15 21:55:53</sys_updated_on><user_criteria display_value="Guest User">76f09af6cb1200108ad442fcf7076dbf</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-2143315131</payload_hash>
+        <record_name>Work Desk Reservation.Guest User</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 21:55:54</sys_created_on>
+        <sys_id>008f92ae2f049110fcf3f21df699b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181695da6af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 21:55:54</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>488f92aeb20491107871b3af2316faf6</update_guid>
+        <update_guid_history>488f92aeb20491107871b3af2316faf6:-2143315131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Work Desk Reservation.Guest User">5fc122622f449110fcf3f21df699b6de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 22:05:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>7652c165bef54dea9f8b75cdd7f81e91</sys_id>
+        <sys_metadata>848f92ae2f049110fcf3f21df699b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work Desk Reservation.Guest User</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_848f92ae2f049110fcf3f21df699b6f3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_848f92ae2f049110fcf3f21df699b6f3">008f92ae2f049110fcf3f21df699b6f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 22:05:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

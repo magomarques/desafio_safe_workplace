@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_1" label="Zip Code" language="en" table="x_803254_safe_work_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <help/>
+            <hint/>
+            <label>Zip Code</label>
+            <language>en</language>
+            <name>x_803254_safe_work_request</name>
+            <plural>Zip Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-12 19:21:13</sys_created_on>
+            <sys_id>015f92a92fc09110fcf3f21df699b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Zip Code</sys_name>
+            <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+            <sys_update_name>sys_documentation_x_803254_safe_work_request_u_string_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-12 19:21:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

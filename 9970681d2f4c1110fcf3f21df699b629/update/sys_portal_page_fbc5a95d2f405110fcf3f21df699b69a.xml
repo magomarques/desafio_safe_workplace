@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2022-06-17 13:59:18">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:31:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fbc5a95d2f405110fcf3f21df699b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Safe Workplace - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sys_portal_page_fbc5a95d2f405110fcf3f21df699b69a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:31:26</sys_updated_on>
+        <title>PA Safe Workplace - New Tab</title>
+        <user/>
+        <view>pa_safe_workplace_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safe Workplace - New Tab">fbc5a95d2f405110fcf3f21df699b69a</page>
+                <summary>SW - SLA's per State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                <sys_id>0c010fb62f44d110fcf3f21df699b623</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>00018bf62f44d110fcf3f21df699b6f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>04010fb62f44d110fcf3f21df699b624</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>3c4c72b22f44d110fcf3f21df699b644</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>08010fb62f44d110fcf3f21df699b625</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>44010fb62f44d110fcf3f21df699b625</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>80010fb62f44d110fcf3f21df699b625</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>8c010fb62f44d110fcf3f21df699b625</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>SW - SLA's per State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>c8010fb62f44d110fcf3f21df699b625</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-16 12:00:44">0c010fb62f44d110fcf3f21df699b623</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:00:44</sys_created_on>
+                        <sys_id>cc010fb62f44d110fcf3f21df699b624</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:00:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safe Workplace - New Tab">fbc5a95d2f405110fcf3f21df699b69a</page>
+                <summary>SW - Amount of Reservations per Year</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-11 20:38:46</sys_created_on>
+                <sys_id>477765dd2f405110fcf3f21df699b61f</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-11 20:39:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-11 13:38:46">477765dd2f405110fcf3f21df699b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:38:46</sys_created_on>
+                        <sys_id>037765dd2f405110fcf3f21df699b620</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:38:46</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-11 13:38:46">477765dd2f405110fcf3f21df699b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:38:46</sys_created_on>
+                        <sys_id>4f7765dd2f405110fcf3f21df699b61f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:38:46</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-11 13:38:46">477765dd2f405110fcf3f21df699b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:38:46</sys_created_on>
+                        <sys_id>877765dd2f405110fcf3f21df699b620</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:39:48</sys_updated_on>
+                        <value>SW - Amount of Reservations per Year</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-11 13:38:46">477765dd2f405110fcf3f21df699b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:38:46</sys_created_on>
+                        <sys_id>c37765dd2f405110fcf3f21df699b620</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:38:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-11 13:38:46">477765dd2f405110fcf3f21df699b61f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:38:46</sys_created_on>
+                        <sys_id>c77765dd2f405110fcf3f21df699b61f</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:39:48</sys_updated_on>
+                        <value>9ab7e5dd2f405110fcf3f21df699b600</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safe Workplace - New Tab">fbc5a95d2f405110fcf3f21df699b69a</page>
+                <summary>SW - Metrics per State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                <sys_id>48418ff62f44d110fcf3f21df699b646</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>00418ff62f44d110fcf3f21df699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>04418ff62f44d110fcf3f21df699b648</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>0c418ff62f44d110fcf3f21df699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>48418ff62f44d110fcf3f21df699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>84418ff62f44d110fcf3f21df699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>c0418ff62f44d110fcf3f21df699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>c8418ff62f44d110fcf3f21df699b646</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>df2b7a322f44d110fcf3f21df699b6ce</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-16 12:01:50">48418ff62f44d110fcf3f21df699b646</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-16 19:01:50</sys_created_on>
+                        <sys_id>cc418ff62f44d110fcf3f21df699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-16 19:01:50</sys_updated_on>
+                        <value>SW - Metrics per State</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safe Workplace - New Tab">fbc5a95d2f405110fcf3f21df699b69a</page>
+                <summary>SW - Amount of Reservations per Month</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-11 20:36:18</sys_created_on>
+                <sys_id>8be6619d2f405110fcf3f21df699b60a</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-11 20:37:47</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-11 13:36:18">8be6619d2f405110fcf3f21df699b60a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:36:18</sys_created_on>
+                        <sys_id>0be6619d2f405110fcf3f21df699b60b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:36:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-11 13:36:18">8be6619d2f405110fcf3f21df699b60a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:36:18</sys_created_on>
+                        <sys_id>0fe6619d2f405110fcf3f21df699b60a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:37:47</sys_updated_on>
+                        <value>7c47ad9d2f405110fcf3f21df699b66b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-11 13:36:18">8be6619d2f405110fcf3f21df699b60a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:36:18</sys_created_on>
+                        <sys_id>47e6619d2f405110fcf3f21df699b60b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:36:18</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-11 13:36:18">8be6619d2f405110fcf3f21df699b60a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:36:18</sys_created_on>
+                        <sys_id>83e6619d2f405110fcf3f21df699b60b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:36:18</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-11 13:36:18">8be6619d2f405110fcf3f21df699b60a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:36:18</sys_created_on>
+                        <sys_id>dbe6619d2f405110fcf3f21df699b60b</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:37:47</sys_updated_on>
+                        <value>SW - Amount of Reservations per Month</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safe Workplace - New Tab">fbc5a95d2f405110fcf3f21df699b69a</page>
+                <summary>SW - Amount of Reservations by State</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-11 20:31:50</sys_created_on>
+                <sys_id>bde5a55d2f405110fcf3f21df699b628</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-11 20:35:19</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-11 13:31:50">bde5a55d2f405110fcf3f21df699b628</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:31:50</sys_created_on>
+                        <sys_id>35e5a55d2f405110fcf3f21df699b629</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:35:19</sys_updated_on>
+                        <value>28b6a95d2f405110fcf3f21df699b618</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-11 13:31:50">bde5a55d2f405110fcf3f21df699b628</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:31:50</sys_created_on>
+                        <sys_id>35e5a55d2f405110fcf3f21df699b62a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:31:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-11 13:31:50">bde5a55d2f405110fcf3f21df699b628</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:31:50</sys_created_on>
+                        <sys_id>71e5a55d2f405110fcf3f21df699b62a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:31:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-11 13:31:50">bde5a55d2f405110fcf3f21df699b628</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:31:50</sys_created_on>
+                        <sys_id>bde5a55d2f405110fcf3f21df699b629</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:31:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-11 13:31:50">bde5a55d2f405110fcf3f21df699b628</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:31:50</sys_created_on>
+                        <sys_id>f9e5a19d2f405110fcf3f21df699b668</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:35:19</sys_updated_on>
+                        <value>SW - Amount of Reservations by State</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Safe Workplace - New Tab">fbc5a95d2f405110fcf3f21df699b69a</page>
+                <summary>SW - Amount of Reservations by Department</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-11 20:40:07</sys_created_on>
+                <sys_id>cfc7eddd2f405110fcf3f21df699b676</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-11 20:42:54</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-11 13:40:07">cfc7eddd2f405110fcf3f21df699b676</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:40:07</sys_created_on>
+                        <sys_id>03c7eddd2f405110fcf3f21df699b678</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:42:54</sys_updated_on>
+                        <value>SW - Amount of Reservations by Department</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-11 13:40:07">cfc7eddd2f405110fcf3f21df699b676</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:40:07</sys_created_on>
+                        <sys_id>43c7eddd2f405110fcf3f21df699b677</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:42:54</sys_updated_on>
+                        <value>676865112f805110fcf3f21df699b658</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-11 13:40:07">cfc7eddd2f405110fcf3f21df699b676</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:40:07</sys_created_on>
+                        <sys_id>4fc7eddd2f405110fcf3f21df699b677</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:40:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-11 13:40:07">cfc7eddd2f405110fcf3f21df699b676</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:40:07</sys_created_on>
+                        <sys_id>8bc7eddd2f405110fcf3f21df699b677</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:40:07</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-11 13:40:07">cfc7eddd2f405110fcf3f21df699b676</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-11 20:40:07</sys_created_on>
+                        <sys_id>c7c7eddd2f405110fcf3f21df699b677</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-11 20:40:07</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

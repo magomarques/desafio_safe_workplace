@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Work Desk Reservation">0acb70552fcc1110fcf3f21df699b662</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 22:56:33</sys_created_on>
+        <sys_id>2c6d6eea2f449110fcf3f21df699b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work Desk Reservation.user_criteria_employee</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_2c6d6eea2f449110fcf3f21df699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 22:56:33</sys_updated_on>
+        <user_criteria display_value="user_criteria_employee">2e6c62ea2f449110fcf3f21df699b665</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Table Request" max_length="40" name="x_803254_safe_work_request" sizeclass="12" type="collection">
+        <element label="Zip Code" mandatory="true" max_length="20" name="cep" type="string"/>
+        <element label="City" max_length="20" name="city" type="string"/>
+        <element attributes="encode_utf8=false" label="Department" mandatory="true" max_length="32" name="department" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Desk Size" mandatory="true" max_length="40" name="desk_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="small" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="medium" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="large" sequence="3" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Zip Code" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

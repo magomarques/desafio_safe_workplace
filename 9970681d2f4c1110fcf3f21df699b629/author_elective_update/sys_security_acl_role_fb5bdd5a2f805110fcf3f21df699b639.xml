@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 22:20:20</sys_created_on>
+        <sys_id>fb5bdd5a2f805110fcf3f21df699b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_803254_safe_work.sanitarians</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_security_acl display_value="">152b59522f805110fcf3f21df699b63d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fb5bdd5a2f805110fcf3f21df699b639</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 22:20:20</sys_updated_on>
+        <sys_user_role display_value="x_803254_safe_work.sanitarians" name="x_803254_safe_work.sanitarians">b901645d2f4c1110fcf3f21df699b678</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>sys_security_acl_role_fb5bdd5a2f805110fcf3f21df699b639</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-14 22:20:20</sys_created_on><sys_id>fb5bdd5a2f805110fcf3f21df699b639</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_803254_safe_work.sanitarians</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_security_acl display_value="">152b59522f805110fcf3f21df699b63d</sys_security_acl><sys_update_name>sys_security_acl_role_fb5bdd5a2f805110fcf3f21df699b639</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-14 22:20:20</sys_updated_on><sys_user_role display_value="x_803254_safe_work.sanitarians" name="x_803254_safe_work.sanitarians">b901645d2f4c1110fcf3f21df699b678</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-772869584</payload_hash>
+        <record_name>.x_803254_safe_work.sanitarians</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 22:20:20</sys_created_on>
+        <sys_id>148b559a2f805110fcf3f21df699b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181644daba30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 22:20:20</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5c8b559abf805110f78bf256813fde1a</update_guid>
+        <update_guid_history>5c8b559abf805110f78bf256813fde1a:-772869584</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_803254_safe_work.sanitarians">75c06d9e2f805110fcf3f21df699b6c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 22:43:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1dad9e8a7d294437867ea416224b76a1</sys_id>
+        <sys_metadata>fb5bdd5a2f805110fcf3f21df699b639</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_803254_safe_work.sanitarians</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent display_value="x_803254_safe_work_request">152b59522f805110fcf3f21df699b63d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_fb5bdd5a2f805110fcf3f21df699b639</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_fb5bdd5a2f805110fcf3f21df699b639">148b559a2f805110fcf3f21df699b61b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 22:43:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

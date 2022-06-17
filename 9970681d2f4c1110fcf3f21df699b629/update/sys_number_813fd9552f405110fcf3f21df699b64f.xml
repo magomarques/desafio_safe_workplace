@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_803254_safe_work_request">x_803254_safe_work_request</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>SW</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:02:34</sys_created_on>
+        <sys_id>813fd9552f405110fcf3f21df699b64f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SW</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sys_number_813fd9552f405110fcf3f21df699b64f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:02:34</sys_updated_on>
+    </sys_number>
+</record_update>

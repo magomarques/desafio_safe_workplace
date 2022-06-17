@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="dashboard_admin" name="dashboard_admin">f61bcb46b76413003b67c50eee11a99f</contains>
+        <role display_value="x_803254_safe_work.managers" name="x_803254_safe_work.managers">7501645d2f4c1110fcf3f21df699b673</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 23:45:51</sys_created_on>
+        <sys_id>32a8f6a62f849110fcf3f21df699b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dashboard_admin.x_803254_safe_work.managers</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sys_user_role_contains_32a8f6a62f849110fcf3f21df699b63a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 23:45:51</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

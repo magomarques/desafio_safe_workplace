@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Work Desk Reservation">8718ec152f8c1110fcf3f21df699b6b0</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 16:10:06</sys_created_on>
+        <sys_id>aff968952f8c1110fcf3f21df699b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Work Desk Reservation</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sc_cat_item_category_aff968952f8c1110fcf3f21df699b6c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 16:10:06</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>sc_cat_item_category_aff968952f8c1110fcf3f21df699b6c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Work Desk Reservation">8718ec152f8c1110fcf3f21df699b6b0</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-11 16:10:06</sys_created_on><sys_id>aff968952f8c1110fcf3f21df699b6c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.Work Desk Reservation</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>sc_cat_item_category_aff968952f8c1110fcf3f21df699b6c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-11 16:10:06</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-783637357</payload_hash>
+        <record_name>Departmental Services.Work Desk Reservation</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 16:10:06</sys_created_on>
+        <sys_id>b7f968952f8c1110fcf3f21df699b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1815387a1670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 16:10:06</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>fff96895f28c1110ba47ade9fc7f3dca</update_guid>
+        <update_guid_history>fff96895f28c1110ba47ade9fc7f3dca:-783637357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.Work Desk Reservation">a11cf0192fcc1110fcf3f21df699b640</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 17:29:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2adf7d8a2b3845eea26dc0bd2d49e4c9</sys_id>
+        <sys_metadata>aff968952f8c1110fcf3f21df699b6c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Work Desk Reservation</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_aff968952f8c1110fcf3f21df699b6c7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_aff968952f8c1110fcf3f21df699b6c7">b7f968952f8c1110fcf3f21df699b6cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 17:29:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

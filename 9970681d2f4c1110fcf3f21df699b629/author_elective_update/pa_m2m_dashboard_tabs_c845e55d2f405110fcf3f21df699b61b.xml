@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Safe Workplace">7625edd92f405110fcf3f21df699b6a7</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:28:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c845e55d2f405110fcf3f21df699b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7625edd92f405110fcf3f21df699b6a7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_c845e55d2f405110fcf3f21df699b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:28:59</sys_updated_on>
+        <tab display_value="Safe Workplace - New Tab">ff35e55d2f405110fcf3f21df699b618</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>pa_m2m_dashboard_tabs_c845e55d2f405110fcf3f21df699b61b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Safe Workplace">7625edd92f405110fcf3f21df699b6a7</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-11 20:28:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c845e55d2f405110fcf3f21df699b61b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>7625edd92f405110fcf3f21df699b6a7</sys_name><sys_overrides/><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_c845e55d2f405110fcf3f21df699b61b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-11 20:28:59</sys_updated_on><tab display_value="Safe Workplace - New Tab">ff35e55d2f405110fcf3f21df699b618</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>32451</payload_hash>
+        <record_name>7625edd92f405110fcf3f21df699b6a7</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:28:59</sys_created_on>
+        <sys_id>cc45e55d2f405110fcf3f21df699b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1815474a5580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:28:59</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>0845e55dfc405110c453968c601cdc1d</update_guid>
+        <update_guid_history>0845e55dfc405110c453968c601cdc1d:32451</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Safe Workplace">d5a5ad5d2f405110fcf3f21df699b613</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:30:43</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>3c4eb68dd3c14b2d93d9d31aaff2fd09</sys_id>
+        <sys_metadata>c845e55d2f405110fcf3f21df699b61b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7625edd92f405110fcf3f21df699b6a7</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent display_value="">7625edd92f405110fcf3f21df699b6a7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_c845e55d2f405110fcf3f21df699b61b</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_c845e55d2f405110fcf3f21df699b61b">cc45e55d2f405110fcf3f21df699b61d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:30:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

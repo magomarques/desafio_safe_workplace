@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="metric_definition">
+    <metric_definition action="DELETE">
+        <active>true</active>
+        <description/>
+        <field>state</field>
+        <name>MTRC Awaiting for sanitarians</name>
+        <number>MTRC0010004</number>
+        <order>100</order>
+        <script/>
+        <sys_class_name>metric_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 18:22:14</sys_created_on>
+        <sys_id>acf732be2f04d110fcf3f21df699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MTRC Awaiting for sanitarians</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>metric_definition_acf732be2f04d110fcf3f21df699b64d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 18:22:14</sys_updated_on>
+        <table>x_803254_safe_work_request</table>
+        <timeline>true</timeline>
+        <type>field_value_duration</type>
+    </metric_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>metric_definition_acf732be2f04d110fcf3f21df699b64d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="metric_definition"><metric_definition action="INSERT_OR_UPDATE"><active>true</active><description/><field>state</field><name>MTRC Awaiting for sanitarians</name><number>MTRC0010004</number><order>100</order><script/><sys_class_name>metric_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-16 18:22:14</sys_created_on><sys_id>acf732be2f04d110fcf3f21df699b64d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MTRC Awaiting for sanitarians</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>metric_definition_acf732be2f04d110fcf3f21df699b64d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-16 18:22:14</sys_updated_on><table>x_803254_safe_work_request</table><timeline>true</timeline><type>field_value_duration</type></metric_definition></record_update>]]></payload>
+        <payload_hash>-969001996</payload_hash>
+        <record_name>MTRC Awaiting for sanitarians</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 18:22:14</sys_created_on>
+        <sys_id>c83872fe2f04d110fcf3f21df699b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1816dc067c70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 18:22:14</sys_updated_on>
+        <type>Metric Definition</type>
+        <update_guid>043872fe7f04d110fb7b0852b56c0bdd</update_guid>
+        <update_guid_history>043872fe7f04d110fb7b0852b56c0bdd:-969001996</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MTRC Awaiting for sanitarians">7cc8bafe2f04d110fcf3f21df699b691</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 18:24:45</sys_created_on>
+        <sys_db_object display_value="" name="metric_definition">metric_definition</sys_db_object>
+        <sys_id>ce6e3b487a934c81945508dce5aa7649</sys_id>
+        <sys_metadata>acf732be2f04d110fcf3f21df699b64d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MTRC Awaiting for sanitarians</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent display_value="Table Request">1e0460512f8c1110fcf3f21df699b6f6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>metric_definition_acf732be2f04d110fcf3f21df699b64d</sys_update_name>
+        <sys_update_version display_value="metric_definition_acf732be2f04d110fcf3f21df699b64d">c83872fe2f04d110fcf3f21df699b6dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 18:24:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

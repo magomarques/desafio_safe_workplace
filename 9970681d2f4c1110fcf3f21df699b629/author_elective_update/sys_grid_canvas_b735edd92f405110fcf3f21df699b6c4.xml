@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA Safe Workplace - New Tab">b335edd92f405110fcf3f21df699b6c3</legacy_page>
+        <name>PA Safe Workplace - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:28:59</sys_created_on>
+        <sys_id>b735edd92f405110fcf3f21df699b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Safe Workplace - New Tab</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_update_name>sys_grid_canvas_b735edd92f405110fcf3f21df699b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:28:59</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</application>
+        <file_path/>
+        <instance_id>883c9a56dbac3b004d2bac44d49619fd</instance_id>
+        <instance_name>dev78603</instance_name>
+        <name>sys_grid_canvas_b735edd92f405110fcf3f21df699b6c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA Safe Workplace - New Tab">b335edd92f405110fcf3f21df699b6c3</legacy_page><name>PA Safe Workplace - New Tab</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-11 20:28:59</sys_created_on><sys_id>b735edd92f405110fcf3f21df699b6c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA Safe Workplace - New Tab</sys_name><sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package><sys_policy/><sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope><sys_update_name>sys_grid_canvas_b735edd92f405110fcf3f21df699b6c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-11 20:28:59</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>366494312</payload_hash>
+        <record_name>PA Safe Workplace - New Tab</record_name>
+        <reverted_from/>
+        <source>5d70681d2f4c1110fcf3f21df699b62b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:28:59</sys_created_on>
+        <sys_id>f735e55d2f405110fcf3f21df699b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1815474a4960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:28:59</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>3335e55d60405110d7e3f8f5c75a4118</update_guid>
+        <update_guid_history>3335e55d60405110d7e3f8f5c75a4118:366494312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-11 20:30:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>daa46a2b9ad64253804c985f42115a01</sys_id>
+        <sys_metadata>b735edd92f405110fcf3f21df699b6c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Safe Workplace - New Tab</sys_name>
+        <sys_package display_value="Safe Workplace" source="x_803254_safe_work">9970681d2f4c1110fcf3f21df699b629</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safe Workplace">9970681d2f4c1110fcf3f21df699b629</sys_scope>
+        <sys_scope_delete display_value="">59a3a2dd012d4a00a42a0b3b2e64cc40</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_b735edd92f405110fcf3f21df699b6c4</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_b735edd92f405110fcf3f21df699b6c4">f735e55d2f405110fcf3f21df699b618</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-11 20:30:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
